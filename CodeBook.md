@@ -69,7 +69,7 @@ Transformation functions:
 - setnames() : rename columns in a dataframe
 - ddply() : split a data frame, apply a function (mean in this exercise), then return results back in a single data frame
 
-Variables:
+Variables:  (NOTE: variables beginning with 't' are time domain signals, variables beginning with an 'f' are frequency domain signals )
 -------------------------------------------------
 -        1	 : 	subject                         	 : 	subject performing activity
 -	2	 : 	activity                       	 : 	activity name
